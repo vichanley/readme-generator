@@ -60,8 +60,8 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## License 
-  This application is covered by ${renderLicenseBadge(data.license)} <br />
-  You can find the full license info at ${renderLicenseLink(data.license)} .
+  This application is covered by ${renderLicenseLink(data.license)} <br />
+  Click the license name to view the full license and more info.
 
 
   ## Contributing 
