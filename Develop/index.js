@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
-const generatePage = require('./src/page-template');
-const { writeFile, copyFile } = require('./utils/generateMarkdown');
+const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const userQuestions = [
@@ -21,7 +21,7 @@ const userQuestions = [
       {
         type: 'input',
         name: 'description',
-        message: 'Provide a short description explaining the what, why, and how of your project. &#013; Use the following questions as a guide: &#013; -What was your motivation? &#013; -Why did you build this project? &#013; -What problem does it solve? &#013; - What did you learn?',
+        message: 'Provide a short description explaining the what, why, and how of your project.',
       },
       {
         type: 'input',
@@ -66,7 +66,7 @@ const userQuestions = [
 function writeToFile(fileName, data) {
     readMe = generateMarkdown(data);
 
-    fs.writeFile('README.md', generatePage(), err => {
+    fs.writeFile('README.md', readMe, err => {
         if (err) throw err;
   
         console.log('README.md creation complete!');
