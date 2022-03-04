@@ -24,6 +24,8 @@ ReadMe-Generator is a command-line application that dynamically generates a prof
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video Walkthrough](#video-walkthrough)
+- [Contributing](#contributing)
 - [Questions](#questions)
 
 ## User Story
@@ -63,6 +65,10 @@ The application will be invoked by using the following command in the Develop fo
 ## Usage
 
 This application will be great for a developer who wants to quickly create a professional README.md file for a new project.
+
+## Video Walkthrough
+
+[Readme Generator Demonstration](https://drive.google.com/file/d/1MSONTlPxz6UtEUeCAHeGVkBpPp6AWKKI/view)
 
 ## Contributing
 [Victoria Hanley](https://github.com/vichanley)
