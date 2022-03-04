@@ -1,4 +1,4 @@
-# readme-generator
+# readme
 
   
 
@@ -25,11 +25,11 @@
 
 
   ## Contributing 
-  Victoria Hanley
+  d
 
   ## Tests 
-  alsdjflaksjdflaksdf
+  d
   
   ## Questions 
-  You can find me on GitHub: [vichanley] (https://github.com/vichanley) <br />
-  You can also e-mail me with any questions at viccantu23@gmail.com .
+  You can find me on GitHub: [d] (https://github.com/d) <br />
+  You can also e-mail me with any questions at d .
