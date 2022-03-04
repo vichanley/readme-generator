@@ -1,35 +1,35 @@
-# read me generator
+# ReadMe-Generator
 
-  ![alt text](https://img.shields.io/static/v1?label=licence&message=GNU%20AGPLv3&color=GREEN)
+  ![alt text](https://img.shields.io/static/v1?label=license&message=GNU%20AGPLv3&color=BLUEVIOLET)
 
   ## Description 
-  alskdfjalskdjflaksdjflaksdjf
+  ReadMe-Generator is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
 
   ## Table of Contents 
-  *[Installation](#Installation)
-  *[Usage](#Usage)
-  *[License](#License)
-  *[Contributing](#Contributing)
-  *[Tests](#Tests)
+  *[Installation](#Installation) <br />
+  *[Usage](#Usage) <br />
+  *[License](#License) <br />
+  *[Contributing](#Contributing) <br />
+  *[Tests](#Tests) <br />
   *[Questions](#Questions)
 
   ## Installation 
-  alsdkfjalskdfjlaskdjf;laksdjf;laksdjf
+  The user can run the index.js file using node, input their answers to the listed questions, and ReadMe-Generator will generate a professional README.md file for the user. 
 
   ## Usage 
-  alskdjflaksdjf;laksdjf;laksjdf;lkj
+  This will be extremely useful when a developer is wanting to quickly create a professional README for a new project. 
 
   ## License 
-  ![badge](https://img.shields.io/badge/license-GNU AGPLv3-brightgreen)
-  <br />
-  This application is covered by the GNU AGPLv3 license. 
+  This application is covered by the ![alt text](https://img.shields.io/static/v1?label=license&message=GNU%20AGPLv3&color=BLUEVIOLET) <br />
+  You can find the full license at [Link to License] (../src/GNU%20AGPLv3.txt) .
+
 
   ## Contributing 
-  me
+  
 
   ## Tests 
-  vichanley
+  No tests. 
   
   ## Questions 
-  You can find me on GitHub: [vichanley] (https://github.com/vichanley)
-  You can also e-mail me with any questions at vic@aol.com .
+  You can find me on GitHub: [vichanley] (https://github.com/vichanley) <br />
+  You can also e-mail me with any questions at viccantu23@gmail.com .

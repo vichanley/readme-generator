@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   if(license) {
     const badge = license.map(element => {
-      return `![alt text](https://img.shields.io/static/v1?label=licence&message=${encodeURIComponent(element)}&color=GREEN)`;
+      return `![alt text](https://img.shields.io/static/v1?label=license&message=${encodeURIComponent(element)}&color=BLUEVIOLET)`;
     });
 
     return badge.join(' ');
@@ -20,14 +20,6 @@ function renderLicenseLink(license) {
   } else {return ''};
 };
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {
-  if (license){
-    return '
-  } else {return ''};
-};
-
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
@@ -38,11 +30,11 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents 
-  *[Installation](#Installation)
-  *[Usage](#Usage)
-  *[License](#License)
-  *[Contributing](#Contributing)
-  *[Tests](#Tests)
+  *[Installation](#Installation) <br />
+  *[Usage](#Usage) <br />
+  *[License](#License) <br />
+  *[Contributing](#Contributing) <br />
+  *[Tests](#Tests) <br />
   *[Questions](#Questions)
 
   ## Installation 
@@ -52,9 +44,9 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## License 
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
-  <br />
-  This application is covered by the ${data.license} license. 
+  This application is covered by the ${renderLicenseBadge(data.license)} <br />
+  You can find the full license at ${renderLicenseLink(data.license)} .
+
 
   ## Contributing 
   ${data.contributors}
@@ -63,7 +55,7 @@ function generateMarkdown(data) {
   ${data.tests}
   
   ## Questions 
-  You can find me on GitHub: [${data.username}] (https://github.com/${data.username})
+  You can find me on GitHub: [${data.username}] (https://github.com/${data.username}) <br />
   You can also e-mail me with any questions at ${data.email} .
 `;
 }

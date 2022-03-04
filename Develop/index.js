@@ -46,13 +46,18 @@ const userQuestions = [
       },
       {
         type: 'input',
+        name: 'contributorGitHub',
+        message: 'List your contributors GitHub username, if known.',
+      },
+      {
+        type: 'input',
         name: 'tests',
         message: 'Go the extra mile and write tests for your applications.',
       },
       {
         type: 'input',
         name: 'username',
-        message: 'Please provide your github username.',
+        message: 'Please provide your GitHub username.',
       },
       {
         type: 'input',
