@@ -1,9 +1,9 @@
 <h1 align="center">README.md Generator</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/vichanley/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/vichanley/README-generator"  />
-    <img src="https://img.shields.io/github/last-commit/vichanley/README-generator" >
+    <img src="https://img.shields.io/github/repo-size/vichanley/readme-generator" />
+    <img src="https://img.shields.io/github/languages/top/vichanley/readme-generator"  />
+    <img src="https://img.shields.io/github/last-commit/vichanley/readme-generator" >
 </p>
   
 <p align="center">
@@ -68,4 +68,4 @@ This application will be great for a developer who wants to quickly create a pro
 [Victoria Hanley](https://github.com/vichanley)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:viccantu23@gmail.com) , [GitHub](https://github.com/vichanley)<br />
+Contact me with any questions: [E-mail](mailto:viccantu23@gmail.com) , [GitHub](https://github.com/vichanley)<br />
