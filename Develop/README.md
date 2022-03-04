@@ -1,9 +1,9 @@
-# ReadMe-Generator
+# readme-generator
 
-  ![alt text](https://img.shields.io/static/v1?label=license&message=GNU%20AGPLv3&color=BLUEVIOLET)
+  
 
   ## Description 
-  ReadMe-Generator is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   ## Table of Contents 
   *[Installation](#Installation) <br />
@@ -14,21 +14,21 @@
   *[Questions](#Questions)
 
   ## Installation 
-  The user can run the index.js file using node, input their answers to the listed questions, and ReadMe-Generator will generate a professional README.md file for the user. 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   ## Usage 
-  This will be extremely useful when a developer is wanting to quickly create a professional README for a new project. 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   ## License 
-  This application is covered by the ![alt text](https://img.shields.io/static/v1?label=license&message=GNU%20AGPLv3&color=BLUEVIOLET) <br />
-  You can find the full license at [Link to License] (../src/GNU%20AGPLv3.txt) .
+  This application is covered by  <br />
+  You can find the full license info at  .
 
 
   ## Contributing 
-  
+  Victoria Hanley
 
   ## Tests 
-  No tests. 
+  alsdjflaksjdflaksdf
   
   ## Questions 
   You can find me on GitHub: [vichanley] (https://github.com/vichanley) <br />
