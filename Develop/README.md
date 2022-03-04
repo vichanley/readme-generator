@@ -1,9 +1,9 @@
-# title
+# testing
 
-  ![alt text](https://img.shields.io/static/v1?label=license&message=Mozilla%20Public%20License%202.0&color=BLUEVIOLET)
+  ![alt text](https://img.shields.io/static/v1?label=license&message=GNU%20AGPLv3&color=blueviolet)
 
   ## Description 
-  https://drive.google.com/file/d/17X-WqpNFj1_0_PylFrt7wv88ZAYkdbYT/view
+  ${data.titl
 
   ## Table of Contents 
   *[Installation](#Installation) <br />
@@ -14,22 +14,22 @@
   *[Questions](#Questions)
 
   ## Installation 
-  https://drive.google.com/file/d/17X-WqpNFj1_0_PylFrt7wv88ZAYkdbYT/view
+  ${data.title}
 
   ## Usage 
-  https://drive.google.com/file/d/17X-WqpNFj1_0_PylFrt7wv88ZAYkdbYT/view
+  ${data.title}
 
   ## License 
-  This application is covered by ![alt text](https://img.shields.io/static/v1?label=license&message=Mozilla%20Public%20License%202.0&color=BLUEVIOLET) <br />
-  You can find the full license info at  .
+  This application is covered by ![alt text](https://img.shields.io/static/v1?label=license&message=GNU%20AGPLv3&color=blueviolet) <br />
+  You can find the full license info at [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) .
 
 
   ## Contributing 
   me
 
   ## Tests 
-  https://drive.google.com/file/d/17X-WqpNFj1_0_PylFrt7wv88ZAYkdbYT/view
+  ${data.title}
   
   ## Questions 
   You can find me on GitHub: [vichanley] (https://github.com/vichanley) <br />
-  You can also e-mail me with any questions at vic@aol.com .
+  You can also e-mail me with any questions at alskdflk .
